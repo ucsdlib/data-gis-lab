@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-
-<ul>
-<h3 a href="#x-drive-geospatial-data">Use the table of contents to jump to a particular area</h3 /a></li>
-</ul>
-
-
-    </div>
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
