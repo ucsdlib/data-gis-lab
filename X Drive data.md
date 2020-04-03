@@ -8,12 +8,11 @@
 <ul>
 <li>
 <ul>
-<li><a href="#x-drive-geospatial-data">X:\ Drive Geospatial Data</a></li>
+<li><a href="#x-drive-geospatial-data">Toggle between Table of Contents and listing of all files from the X:/ Geospatial Data</a></li>
 </ul>
 </li>
 </ul>
 
-    </div>
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
