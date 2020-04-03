@@ -37,15 +37,11 @@
 <table>
 <thead>
 <tr>
-<th>Title</th>
-<th>Link</th>
+<th>Table of Contents for</th>
+<th>Geospatial data</th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><a href="#Address_Locators">Address_Locators</a></td>
-<td><a href="#GIS_Tools">GIS_Tools</a></td>
-</tr>
 <tr>
 <td><a href="#Africa_Data">Africa_Data</a></td>
 <td><a href="#GIS_Workshop_Data">GIS_Workshop_Data</a></td>
@@ -78,18 +74,12 @@
 <td><a href="#Europe_Data">Europe_Data</a></td>
 <td><a href="#UCSD_Campus_Data">UCSD_Campus_Data</a></td>
 </tr>
+<tr>
+<td><a href="#GIS_Tools">GIS_Tools</a></td>
+<td><a href="#United_States_Data">United_States_Data</a></td>
+</tr>
 </tbody>
-</table><p><a href="#United_States_Data">United_States_Data</a></p>
-<blockquote></blockquote>
-<h3 id="address_locators">Address_Locators</h3>
-<p>│   ├───sm_background<br>
-│   ├───Streetmap_North America_2013<br>
-│   │   ├───background<br>
-│   │   └───data<br>
-│   │       └───streets.rsx<br>
-│   └───streets<br>
-│       ├───streets.idx<br>
-│       └───streets.rsx</p>
+</table><blockquote></blockquote>
 <h3 id="africa_data">Africa_Data</h3>
 <p>│   ├───Imagery<br>
 │   │   └───Layer_Files<br>
