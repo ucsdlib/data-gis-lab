@@ -6,8 +6,6 @@
     <div class="stackedit__toc">
       
 <ul>
-<li>
-<ul>
 <li><a href="#x-drive-geospatial-data">Toggle between Table of Contents and listing of all files from the X:/ Geospatial Data</a></li>
 </ul>
 </li>
