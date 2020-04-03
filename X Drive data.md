@@ -33,26 +33,53 @@
 <p>Suggestion:  Use the Find command to search this list:<br>
 <strong>Control</strong>+<strong>F</strong> on a <strong>PC</strong>, or Command+<strong>F</strong> on a <strong>Mac</strong></p>
 <h2 id="x-drive-geospatial-data">X:\ Drive Geospatial Data</h2>
-<p><a href="#Address_Locators">Address_Locators</a><br>
-<a href="#Africa_Data">Africa_Data</a><br>
-<a href="#Asia_Data">Asia_Data</a><br>
-<a href="#A_Datacruncher_Data">A_Datacruncher_Data</a><br>
-<a href="#Business_Analyst_Data">Business_Analyst_Data 2008, 2010, 2016</a><br>
-<a href="#California">California</a><br>
-<a href="#Canada_Data">Canada_Data</a><br>
-<a href="#ESRI_Data_for_Workbooks">ESRI_Data_for_Workbooks</a><br>
-<a href="#Europe_Data">Europe_Data</a><br>
-<a href="#GIS_Tools">GIS_Tools</a><br>
-<a href="#GIS_Workshop_Data">GIS_Workshop_Data</a><br>
-<a href="#Global_Data">Global_Data</a><br>
-<a href="#Mexico_Data">Mexico_Data</a><br>
-<a href="#North_America_Data">North_America_Data</a><br>
-<a href="#Oceania_Data">Oceania_Data</a><br>
-<a href="#San_Diego_Data">San_Diego_Data</a><br>
-<a href="#South_America_Data">South_America_Data</a><br>
-<a href="#StreetMap_Premium_NA_2019">StreetMap_Premium_NA_2019</a><br>
-<a href="#UCSD_Campus_Data">UCSD_Campus_Data</a><br>
-<a href="#United_States_Data">United_States_Data</a></p>
+
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="#Address_Locators">Address_Locators</a></td>
+<td><a href="#GIS_Tools">GIS_Tools</a></td>
+</tr>
+<tr>
+<td><a href="#Africa_Data">Africa_Data</a></td>
+<td><a href="#GIS_Workshop_Data">GIS_Workshop_Data</a></td>
+</tr>
+<tr>
+<td><a href="#Asia_Data">Asia_Data</a></td>
+<td><a href="#Global_Data">Global_Data</a></td>
+</tr>
+<tr>
+<td><a href="#A_Datacruncher_Data">A_Datacruncher_Data</a></td>
+<td><a href="#Mexico_Data">Mexico_Data</a></td>
+</tr>
+<tr>
+<td><a href="#Business_Analyst_Data">Business_Analyst_Data 2008, 2010, 2016</a></td>
+<td><a href="#North_America_Data">North_America_Data</a></td>
+</tr>
+<tr>
+<td><a href="#California">California</a></td>
+<td><a href="#Oceania_Data">Oceania_Data</a></td>
+</tr>
+<tr>
+<td><a href="#Canada_Data">Canada_Data</a></td>
+<td><a href="#San_Diego_Data">San_Diego_Data</a></td>
+</tr>
+<tr>
+<td><a href="#ESRI_Data_for_Workbooks">ESRI_Data_for_Workbooks</a></td>
+<td><a href="#South_America_Data">South_America_Data</a></td>
+</tr>
+<tr>
+<td><a href="#Europe_Data">Europe_Data</a></td>
+<td><a href="#UCSD_Campus_Data">UCSD_Campus_Data</a></td>
+</tr>
+</tbody>
+</table><p><a href="#United_States_Data">United_States_Data</a></p>
 <blockquote></blockquote>
 <h3 id="address_locators">Address_Locators</h3>
 <p>│   ├───sm_background<br>
