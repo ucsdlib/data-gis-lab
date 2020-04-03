@@ -36,26 +36,23 @@
 <p><a href="#Address_Locators">Address_Locators</a><br>
 <a href="#Africa_Data">Africa_Data</a><br>
 <a href="#Asia_Data">Asia_Data</a><br>
-[A_Datacruncher_Data<br>
-Business_Analyst_Data<br>
-Business_Analyst_Data_2008<br>
-Business_Analyst_Data_2010<br>
-California<br>
-Canada_Data<br>
-ESRI_Data_for_Workbooks<br>
-Europe_Data<br>
-GIS_Tools<br>
-GIS_Workshop_Data<br>
-Global_Data<br>
-Mexico_Data<br>
-North_America_Data<br>
-Oceania_Data<br>
-San_Diego_Data<br>
-South_America_Data<br>
-StreetMap_Premium_NA_2019R2<br>
-StreetMap_Premium_NA_2019R3<br>
-UCSD_Campus_Data<br>
-United_States_Data</p>
+<a href="#A_Datacruncher_Data">A_Datacruncher_Data</a><br>
+<a href="#Business_Analyst_Data">Business_Analyst_Data 2008, 2010, 2016</a><br>
+<a href="#California">California</a><br>
+<a href="#Canada_Data">Canada_Data</a><br>
+<a href="#ESRI_Data_for_Workbooks">ESRI_Data_for_Workbooks</a><br>
+<a href="3Europe_Data">Europe_Data</a><br>
+<a href="#GIS_Tools">GIS_Tools</a><br>
+<a href="#GIS_Workshop_Data">GIS_Workshop_Data</a><br>
+<a href="#Global_Data">Global_Data</a><br>
+<a href="#Mexico_Data">Mexico_Data</a><br>
+<a href="#North_America_Data">North_America_Data</a><br>
+<a href="#Oceania_Data">Oceania_Data</a><br>
+<a href="#San_Diego_Data">San_Diego_Data</a><br>
+<a href="#South_America_Data">South_America_Data</a><br>
+<a href="#StreetMap_Premium_NA_2019">StreetMap_Premium_NA_2019</a><br>
+<a href="#UCSD_Campus_Data">UCSD_Campus_Data</a><br>
+<a href="#United_States_Data">United_States_Data</a></p>
 <blockquote></blockquote>
 <h3 id="address_locators">Address_Locators</h3>
 <p>│   ├───sm_background<br>
@@ -1422,251 +1419,6 @@ United_States_Data</p>
 │                   │   └───Skinsmp<br>
 │                   └───Skin<br>
 │                       └───Images</p>
-<h3 id="business_analyst_data_2008">Business_Analyst_Data_2008</h3>
-<p>│   ├───Data<br>
-│   │   ├───BDS<br>
-│   │   ├───DMM Shopping Centers<br>
-│   │   ├───ESRI Data<br>
-│   │   │   ├───esri_zip5.idx<br>
-│   │   │   └───IndexBaseValueData<br>
-│   │   ├───InfoUSA Data<br>
-│   │   │   └───infoUsa.idx<br>
-│   │   ├───Tele Atlas Street Data<br>
-│   │   │   ├───background<br>
-│   │   │   ├───census<br>
-│   │   │   ├───hydro<br>
-│   │   │   ├───landmarks<br>
-│   │   │   └───trans<br>
-│   │   │       ├───connectorsrte.rsx<br>
-│   │   │       ├───streets.idx<br>
-│   │   │       ├───streets.rsx<br>
-│   │   │       └───streetscarto.idx<br>
-│   │   └───USA Geocoding Service<br>
-│   ├───Datasets<br>
-│   │   ├───Generalized Data USA<br>
-│   │   │   ├───cgsr_counties.idx<br>
-│   │   │   ├───cgsr_states.idx<br>
-│   │   │   ├───cgsr_zips.idx<br>
-│   │   │   └───mjr_hwys.rsx<br>
-│   │   ├───Quick Start Tutorial<br>
-│   │   ├───Report Templates<br>
-│   │   │   ├───Age<br>
-│   │   │   ├───Age Sex<br>
-│   │   │   ├───Average Drive Time Report<br>
-│   │   │   ├───Benchmark Report<br>
-│   │   │   ├───Businesses Summary Report<br>
-│   │   │   ├───Comprehensive<br>
-│   │   │   ├───Comprehensive Trend<br>
-│   │   │   ├───Customer Demographic Comparison Report<br>
-│   │   │   ├───Demographic and Income Report<br>
-│   │   │   ├───Detailed Business Report<br>
-│   │   │   ├───Executive Summary Report<br>
-│   │   │   ├───GamePlanMapReport<br>
-│   │   │   ├───General<br>
-│   │   │   ├───Geographic Summary<br>
-│   │   │   ├───Household<br>
-│   │   │   ├───Huff Model Calibration<br>
-│   │   │   ├───Locator<br>
-│   │   │   ├───Map Layout Report<br>
-│   │   │   ├───Market Penetration<br>
-│   │   │   ├───Market Penetration Sales<br>
-│   │   │   ├───Market Profile<br>
-│   │   │   ├───Market Ranking<br>
-│   │   │   ├───Mean Store Center<br>
-│   │   │   ├───Measure Cannibalization<br>
-│   │   │   ├───Multi-Area<br>
-│   │   │   ├───PenetrationMapReport<br>
-│   │   │   ├───Population<br>
-│   │   │   ├───Race<br>
-│   │   │   ├───Retail Expenditure Report<br>
-│   │   │   ├───Shopping Centers Report<br>
-│   │   │   ├───SummarizePoints<br>
-│   │   │   ├───Tapestry Area Report<br>
-│   │   │   ├───TargetMapReport<br>
-│   │   │   └───Wind Rose<br>
-│   │   ├───Segmentation<br>
-│   │   ├───Segmentation Report Templates<br>
-│   │   │   ├───Community Tapestry Segmentation<br>
-│   │   │   ├───Company Profile Page<br>
-│   │   │   ├───Conclusions Page<br>
-│   │   │   ├───Core and Dev Segments<br>
-│   │   │   ├───Demographic Profile<br>
-│   │   │   ├───Developing Marketing Strategies<br>
-│   │   │   ├───Game Plan Chart<br>
-│   │   │   ├───Game Plan Chart Page<br>
-│   │   │   ├───Introduction Page<br>
-│   │   │   ├───Market Area and Gap Analysis<br>
-│   │   │   ├───Market Potential<br>
-│   │   │   ├───Market Potential Volume<br>
-│   │   │   ├───Match Level Summary Report<br>
-│   │   │   ├───Multi-profile bar chart<br>
-│   │   │   ├───Profile comparison bar chart<br>
-│   │   │   ├───Segmentation Chart<br>
-│   │   │   ├───Table of Contents<br>
-│   │   │   ├───Tapestry Profile<br>
-│   │   │   ├───Tapestry Profile Volume Report<br>
-│   │   │   ├───Title Page<br>
-│   │   │   └───Understanding your Target Profile<br>
-│   │   ├───Segmentation Studies Templates<br>
-│   │   │   ├───Blank template<br>
-│   │   │   └───Standard Segmentation Study Template<br>
-│   │   ├───Target Groups<br>
-│   │   │   ├───Lifemodes<br>
-│   │   │   └───Urbanization<br>
-│   │   ├───Template Patterns<br>
-│   │   │   ├───Age<br>
-│   │   │   ├───Age Sex<br>
-│   │   │   ├───Area ID Brief<br>
-│   │   │   ├───Area ID Detailed<br>
-│   │   │   ├───Area ID Trend<br>
-│   │   │   ├───Comprehensive<br>
-│   │   │   ├───Comprehensive Trend<br>
-│   │   │   ├───Demographic and Income Report<br>
-│   │   │   ├───General<br>
-│   │   │   ├───Household<br>
-│   │   │   ├───Market Profile<br>
-│   │   │   ├───Multi-Area<br>
-│   │   │   ├───Population<br>
-│   │   │   ├───Race<br>
-│   │   │   ├───Retail Expenditure<br>
-│   │   │   └───Store ID<br>
-│   │   └───Tutorial<br>
-│   └───Documentation<br>
-│       └───install_guides</p>
-<h3 id="business_analyst_data_2010">Business_Analyst_Data_2010</h3>
-<p>│   ├───bin<br>
-│   │   └───Templates<br>
-│   │       └───Business<br>
-│   ├───Data<br>
-│   │   ├───BDS<br>
-│   │   ├───DMM Shopping Centers<br>
-│   │   ├───ESRI Data<br>
-│   │   │   └───esri_zip5.idx<br>
-│   │   ├───InfoUSA Data<br>
-│   │   │   ├───infoUsa.idx<br>
-│   │   │   └───LuceneIndex<br>
-│   │   │       ├───IndexPart_0<br>
-│   │   │       ├───IndexPart_1<br>
-│   │   │       ├───IndexPart_2<br>
-│   │   │       └───IndexPart_3<br>
-│   │   ├───StreetMapData<br>
-│   │   │   ├───background<br>
-│   │   │   │   ├───Countries.gdb<br>
-│   │   │   │   └───Parks.gdb<br>
-│   │   │   ├───census<br>
-│   │   │   │   ├───MajorCities.gdb<br>
-│   │   │   │   └───MinorCities.gdb<br>
-│   │   │   ├───hydro<br>
-│   │   │   │   ├───Hydro.gdb<br>
-│   │   │   │   └───Rivers.gdb<br>
-│   │   │   ├───landmarks<br>
-│   │   │   └───trans<br>
-│   │   │       ├───connectorsrte.rsx<br>
-│   │   │       ├───Interstates.gdb<br>
-│   │   │       ├───streets.idx<br>
-│   │   │       ├───streets.rsx<br>
-│   │   │       ├───Streetscarto.idx<br>
-│   │   │       └───Trans.gdb<br>
-│   │   └───USA Geocoding Service<br>
-│   └───Datasets<br>
-│       ├───ArcGIS Online Maps<br>
-│       ├───Auxiliary Files<br>
-│       │   └───MessageCenterimages<br>
-│       ├───Generalized Data USA<br>
-│       │   ├───annualTrends.gdb<br>
-│       │   ├───biz.gdb<br>
-│       │   ├───cgsr_counties.idx<br>
-│       │   ├───cgsr_states.idx<br>
-│       │   ├───cgsr_zips.idx<br>
-│       │   ├───dbGeoUnits.gdb<br>
-│       │   ├───generalized_data.gdb<br>
-│       │   └───mjr_hwys.rsx<br>
-│       ├───MapBooks<br>
-│       ├───Quick Start Tutorial<br>
-│       ├───Report Templates<br>
-│       │   ├───Age by Income Profile<br>
-│       │   ├───Age by Sex Profile<br>
-│       │   ├───Average Drive Time Report<br>
-│       │   ├───Benchmark Report<br>
-│       │   ├───Business Locations Report<br>
-│       │   ├───Customer Demographic Comparison Report<br>
-│       │   ├───Demographic and Income Report<br>
-│       │   ├───Detailed Business Locations Report<br>
-│       │   ├───Executive Summary Report<br>
-│       │   ├───GamePlanMapReport<br>
-│       │   ├───Geographic Summary<br>
-│       │   ├───Housing Profile<br>
-│       │   ├───Huff Model Calibration<br>
-│       │   ├───LocatorL<br>
-│       │   ├───LocatorP<br>
-│       │   ├───Map Series L1<br>
-│       │   ├───Map Series L2<br>
-│       │   ├───Map Series L3<br>
-│       │   ├───Map Series L4<br>
-│       │   ├───Map Series L5<br>
-│       │   ├───Map Series P1<br>
-│       │   ├───Map Series P2<br>
-│       │   ├───Map Series P3<br>
-│       │   ├───Map Series P4<br>
-│       │   ├───Map Series P5<br>
-│       │   ├───Market Penetration<br>
-│       │   ├───Market Penetration Sales<br>
-│       │   ├───Market Profile<br>
-│       │   ├───Market Ranking<br>
-│       │   ├───Mean Store Center<br>
-│       │   ├───Measure Cannibalization<br>
-│       │   ├───PCA Groups Report<br>
-│       │   ├───PenetrationMapReport<br>
-│       │   ├───Quarterly Demographic Profile<br>
-│       │   ├───Retail Goods and Services Expenditures<br>
-│       │   ├───Shopping Centers Report<br>
-│       │   ├───SummarizePoints<br>
-│       │   ├───Tapestry Segmentation Area Profile<br>
-│       │   ├───TargetMapReport<br>
-│       │   └───Wind Rose<br>
-│       ├───Segmentation<br>
-│       │   ├───indexes.gdb<br>
-│       │   ├───mrigroups.gdb<br>
-│       │   ├───SegmentsImages<br>
-│       │   └───tapSegments.gdb<br>
-│       ├───Segmentation Profiles<br>
-│       │   ├───US Adult Tapestry Profile<br>
-│       │   └───US Household Tapestry Profile<br>
-│       ├───Segmentation Report Templates<br>
-│       │   ├───Company Profile<br>
-│       │   ├───Conclusions and Recommendations<br>
-│       │   ├───Core Segments<br>
-│       │   ├───Demographic Profile<br>
-│       │   ├───Developing Marketing Strategies<br>
-│       │   ├───Game Plan Chart<br>
-│       │   ├───Introduction<br>
-│       │   ├───Market Area Gap Analysis<br>
-│       │   ├───Market Potential<br>
-│       │   ├───Market Potential with Volume<br>
-│       │   ├───Match Level Summary<br>
-│       │   ├───Multi-profile Bar Chart<br>
-│       │   ├───Profile Bar Chart<br>
-│       │   ├───Table of Contents<br>
-│       │   ├───Tapestry Profile<br>
-│       │   ├───Tapestry Profile with Volume<br>
-│       │   ├───Title Page<br>
-│       │   ├───Understanding Tapestry Segmentation<br>
-│       │   ├───Understanding Your Profile<br>
-│       │   └───Understanding Your Target Group<br>
-│       ├───Segmentation Studies Templates<br>
-│       │   ├───Blank template<br>
-│       │   └───Standard Segmentation Study Template<br>
-│       ├───Target groups<br>
-│       │   ├───Lifemodes<br>
-│       │   └───Urbanization<br>
-│       ├───Template Patterns<br>
-│       │   ├───Area ID Brief<br>
-│       │   ├───Area ID Detailed<br>
-│       │   ├───Area ID Trend<br>
-│       │   ├───Blank Report<br>
-│       │   └───Store ID<br>
-│       ├───Tutorial<br>
-│       └───UpdateMXDs</p>
 <h3 id="california">California</h3>
 <p>│   ├───Boundaries<br>
 │   │   ├───Continu<br>
