@@ -34,9 +34,9 @@
 <strong>Control</strong>+<strong>F</strong> on a <strong>PC</strong>, or Command+<strong>F</strong> on a <strong>Mac</strong></p>
 <h2 id="x-drive-geospatial-data">X:\ Drive Geospatial Data</h2>
 <p><a href="#Address_Locators">Address_Locators</a><br>
-<a href="###Africa_Data">Africa_Data</a><br>
-<a href="###Asia_Data">Asia_Data</a><br>
-A_Datacruncher_Data<br>
+<a href="#Africa_Data">Africa_Data</a><br>
+<a href="#Asia_Data">Asia_Data</a><br>
+[A_Datacruncher_Data<br>
 Business_Analyst_Data<br>
 Business_Analyst_Data_2008<br>
 Business_Analyst_Data_2010<br>
