@@ -77,20 +77,20 @@
 <p>│   ├───Imagery<br>
 │   │   └───Layer_Files<br>
 │   └───Z_Individual_Country_Data<br>
-│       ├───China_CD<br>
-│       │   ├───1953<br>
-│       │   ├───1964<br>
-│       │   ├───1982<br>
-│       │   ├───1990<br>
-│       │   ├───2000<br>
+│       ├───China_CD - Historical China County Population Census Data<br>
+│       │   ├───1953 - County boundary with 1953 population Census data<br>
+│       │   ├───1964 - County boundary with 1964 population Census data<br>
+│       │   ├───1982 - County boundary with 1982 population Census data<br>
+│       │   ├───1990 - County boundary with 1990 population Census data<br>
+│       │   ├───2000 - County boundary with 2000 population Census data<br>
 │       │   ├───Excel<br>
 │       │   ├───images<br>
 │       │   └───Projected<br>
-│       │       ├───1953<br>
-│       │       ├───1964<br>
-│       │       ├───1982<br>
-│       │       ├───1990<br>
-│       │       └───2000<br>
+│       │       ├───1953 - 1953 Province boundaries<br>
+│       │       ├───1964 - 1964 Province boundaries<br>
+│       │       ├───1982 - 1982 Province boundaries<br>
+│       │       ├───1990 - 1990 Province boundaries<br>
+│       │       └───2000 - 2000 Province boundaries<br>
 │       ├───India<br>
 │       └───Japan<br>
 │           └───tokyo_japan</p>
