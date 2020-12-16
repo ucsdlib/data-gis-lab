@@ -12,7 +12,7 @@ To use ArcGIS Enterprise, make sure to first download the Cisco AnyConnect Secur
    <img src="images/ArcGIS-ServerConnection-Geocoding-Pro.png" width = 600>
 
 1. When prompted, fill in the Server URL with the address: *reach out to GIS Librarian for server address*
-
+   <img src="images/ArcGIS-ServerConnection-Geocoding-Pro.png" width = 600>
    You can leave the optional authentication fields blank. Once ready, click **OK**.
 
 1. Once the connection has been established, the software will ask you to log into AGE with your credentials. You can log in with **[your AD username]** as the username and your AD password as the password. After this, the setup should complete, and you should now be connected to the AGE server. *You can confirm this by checking **Servers** in the **Catalog Pane** (if you do not see the Catalog Pane, select the first **View** tab on the top ribbon, and select **Catalog Pane** and you should see it appear on the far right of the software window).* 
