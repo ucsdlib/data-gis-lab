@@ -34,15 +34,15 @@ To use ArcGIS Enterprise, make sure to first download the Cisco AnyConnect Secur
 
    1. Whether you choose to go through the steps or directly to the tool, you will need to select the **locator** for the geocoding process. To select a locator from the server, click the **folder icon** next to the **Input Locator** option. 
       
-    <img src="images/InputLocator.png" widtch = 150>      
+    <div align="center"><img src="images/InputLocator.png" widtch = 150></div>      
       
-      You should now see the project directory. You can navigate to the locators in the server: 
+       You should now see the project directory. You can navigate to the locators in the server: 
 **<div align="center">Project >> Servers >> [Server Name] >> Locators</div>**
 
       You should see the same locators you saw earlier. Select the one most appropriate for your project and click **OK**. 
    1. Choose the field you are interested in geocoding (depending on if you selected single or multiple address fields, you may have to do this more than once) and confirm the output file name. The default selection on ArcGIS Pro is to add the output to the map. 
 
-    <img src="images/Geocode-Fields.png" widtch = 150>    
+    <div align="center"><img src="images/Geocode-Fields.png" widtch = 150></div>    
 
    1. When you are ready, click **Run** at the bottom to begin the geocoding process.
 
