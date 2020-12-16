@@ -26,7 +26,7 @@ To use ArcGIS Enterprise, make sure to first download the Cisco AnyConnect Secur
 
 1. To begin geocoding, add your data to ArcGIS Pro. Right click on the layer and select **Geocode Table**. 
 
-   <img src="images/ArcGIS-Pro-Geocode-As-Table.png" widtch = 150> 
+   <img src="images/ArcGIS-Pro-Geocode-As-Table.png" width = 600> 
 
 1. On the right hand pane, you should now see instructions describing the geocoding process in ArcGIS Pro. You may choose to go through the steps, or experienced geocoders may choose to go directly to the tool. 
 
