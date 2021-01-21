@@ -14,20 +14,20 @@ To use ArcGIS Enterprise, make sure to first download the Cisco AnyConnect Secur
 1. When prompted, fill in the Server URL with the address: https://lib-webgis.ucsd.edu/server
 *You must have an account inside ArcGIS Enterprise to use this server address. Reach out to the GIS Librarian for an ArcGIS Enterprise account from your UCSD email account*
 
-   <img src="images/Add-ArcGIS-Server-Connection_activeserver.png" width = 500>
+   <img src="../images/Add-ArcGIS-Server-Connection_activeserver.png" width = 500>
 
    You can leave the optional authentication fields blank. Once ready, click **OK**.
 
 1. Once the connection has been established, the software will ask you to log into AGE with your credentials. You can log in with **[your AD username]** as the username and your AD password as the password. After this, the setup should complete, and you should now be connected to the AGE server. *You can confirm this by checking **Servers** in the **Catalog Pane** (if you do not see the Catalog Pane, select the first **View** tab on the top ribbon, and select **Catalog Pane** and you should see it appear on the far right of the software window).* 
    
-   <img src="images/ArcGIS-Pro-SignInBox.png" width = 400> 
-   <img src="images/ArcGIS-Pro-Catalog-Servers.png" width = 300> 
+   <img src="../images/ArcGIS-Pro-SignInBox.png" width = 400> 
+   <img src="../images/ArcGIS-Pro-Catalog-Servers.png" width = 300> 
 
 1. Once you locate the server on the Catalog Pane, go through the files and in the **Locators** folder, ensure you see the NorthAmerica, USA, and USA_StreetAddress locators. 
 
 1. To begin geocoding, add your data to ArcGIS Pro. Right click on the layer and select **Geocode Table**. 
 
-   <img src="images/ArcGIS-Pro-Geocode-As-Table.png" width = 600> 
+   <img src="../images/ArcGIS-Pro-Geocode-As-Table.png" width = 600> 
 
 1. On the right hand pane, you should now see instructions describing the geocoding process in ArcGIS Pro. You may choose to go through the steps, or experienced geocoders may choose to go directly to the tool. 
 
@@ -35,7 +35,7 @@ To use ArcGIS Enterprise, make sure to first download the Cisco AnyConnect Secur
 
    1. Whether you choose to go through the steps or directly to the tool, you will need to select the **locator** for the geocoding process. To select a locator from the server, click the **folder icon** next to the **Input Locator** option. 
       
-    <div align="center"><img src="images/InputLocator.png" widtch = 150></div>      
+    <div align="center"><img src="../images/InputLocator.png" widtch = 150></div>      
       
       You should now see the project directory. You can navigate to the locators in the server: 
 **<div align="center">Project >> Servers >> [Server Name] >> Locators</div>**
@@ -44,7 +44,7 @@ To use ArcGIS Enterprise, make sure to first download the Cisco AnyConnect Secur
 
    1. Choose the field you are interested in geocoding (depending on if you selected single or multiple address fields, you may have to do this more than once) and confirm the output file name. The default selection on ArcGIS Pro is to add the output to the map. 
 
-      <div align="center"><img src="images/Geocode-Fields.png" widtch = 150></div>    
+      <div align="center"><img src="../images/Geocode-Fields.png" widtch = 150></div>    
 
    1. When you are ready, click **Run** at the bottom to begin the geocoding process.
 
