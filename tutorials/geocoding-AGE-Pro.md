@@ -9,7 +9,7 @@ To use ArcGIS Enterprise, make sure to first download the Cisco AnyConnect Secur
 ## Geocoding from ArcGIS Pro using AGE ##
 1. Open up your project on ArcGIS Pro and navigate to the “Insert” tab on the ribbon. In this tab, you should see an icon called **Connections**. Search the dropdown menu and Select **New ArcGIS Server**. 
 
-   <img src="images/ArcGIS-ServerConnection-Geocoding-Pro.png" width = 600>
+   <img src="../images/ArcGIS-ServerConnection-Geocoding-Pro.png" width = 600>
 
 1. When prompted, fill in the Server URL with the address: https://lib-webgis.ucsd.edu/server
 *You must have an account inside ArcGIS Enterprise to use this server address. Reach out to the GIS Librarian for an ArcGIS Enterprise account from your UCSD email account*
