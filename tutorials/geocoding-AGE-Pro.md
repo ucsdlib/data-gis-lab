@@ -23,7 +23,7 @@ To use ArcGIS Enterprise, make sure to first download the Cisco AnyConnect Secur
    <img src="../images/ArcGIS-Pro-SignInBox.png" width = 400> 
    <img src="../images/ArcGIS-Pro-Catalog-Servers.png" width = 300> 
 
-1. Once you locate the server on the Catalog Pane, go through the files and in the **Locators** folder, ensure you see the NorthAmerica, USA, and USA_StreetAddress locators. 
+1. Once you locate the server on the Catalog Pane, go through the files and in the **Locators** folder, ensure you see the NorthAmerica, USA, and USA_StreetAddress locators. (If your addresses are only in the U.S., use the USA locator. If you have addresses in Canada or Mexico, select the NorthAmerica locator)
 
 1. To begin geocoding, add your data to ArcGIS Pro. Right click on the layer and select **Geocode Table**. 
 
