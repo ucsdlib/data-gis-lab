@@ -14,10 +14,12 @@ For use in Esri-based products, access to Nearmap imagery is automatically grant
 1. Open a Map
 1. Add Data
 1. Browse Subscription Layers
-   <img src="../images/AGO_addlayers.PNG" width = 600>
+
+   <img src="../images/AGO_addlayers.PNG"  width = 300>
 
 1. Add Nearmap US Verticle Imagery to your map
-    <img src="../images/AGO_AddNearMap.png" width = 600>
+
+    <img src="../images/AGO_AddNearMap.png"  width = 300>
 
 Working with Nearmap 
 - [Enable Historical Imagery](https://docs.nearmap.com/display/ND/Enable+Historical+Imagery+in+ArcGIS+Online)
