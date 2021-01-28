@@ -3,11 +3,11 @@ UC San Diego has access to Nearmap imagery through the San Diego Imagery Consort
 
 Please refer to the [NearMap documentation for Integrations](https://docs.nearmap.com/display/ND/INTEGRATIONS).
 
-For use in Esri-based products, access to Nearmap imagery is automatically granted to all UC San Diego affiliates who log in to ArcGIS Online using the SSO option. 
+For use in Esri-based products, access to Nearmap imagery is automatically granted to all UC San Diego affiliates who log in to ArcGIS Online using the SSO option. If you would like to access Nearmap imagery in QGIS or other platforms, you will need to reach out to get an API key. 
 
 ## Accessing Nearmap Imagery in ArcGIS Pro
-1. Ensure that you are logged in to ArcGIS Pro using your UC San Diego ArcGIS Login credentials.
-1. 
+1. You must be signed into ArcGIS Pro with your UC San Diego ArcGIS Online credentials. Same process and credentials used to access [ucsdonline.maps.arcgis.com](https://ucsdonline.maps.arcgis.com)
+1. Add Data
 
 ## Accessing Nearmap Imagery in ArcGIS Online
 1. Sign in to UC San Diego ArcGIS Online (https://ucsdonline.maps.arcgis.com) 
