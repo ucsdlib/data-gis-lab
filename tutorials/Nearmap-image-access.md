@@ -7,6 +7,8 @@ For use in Esri-based products, access to Nearmap imagery is automatically grant
 
 If you would like to access Nearmap imagery in QGIS or other platforms, you will need to reach out to the [GIS Librarian at UC San Diego](https://ucsd.libguides.com/gis/gisucsd) to get an API key. 
 
+
+
 ## Accessing Nearmap Imagery in ArcGIS Pro
 1. You must be signed into ArcGIS Pro with your UC San Diego ArcGIS Online credentials. Same process and credentials used to access [ucsdonline.maps.arcgis.com](https://ucsdonline.maps.arcgis.com)
 1. **Add Data**
@@ -25,6 +27,7 @@ If you would like to access Nearmap imagery in QGIS or other platforms, you will
 - [Configure the Time Field for historical imagery (step 2)](https://docs.nearmap.com/display/ND/Enable+Historical+Imagery+in+ArcGIS+Pro)
 
 
+
 ## Accessing Nearmap Imagery in ArcGIS Online
 1. Sign in to UC San Diego ArcGIS Online (https://ucsdonline.maps.arcgis.com) 
 1. Open a Map
@@ -35,11 +38,12 @@ If you would like to access Nearmap imagery in QGIS or other platforms, you will
 
 1. Add Nearmap US Verticle Imagery to your map
 
-    <img src="../images/AGO_AddNearMap.png"  width = 300>
+    <img src="../images/AGO_AddNearMap.png"  width = 150>
 
 ### Working with Nearmap in ArcGIS Online 
 - [Enable Historical Imagery](https://docs.nearmap.com/display/ND/Enable+Historical+Imagery+in+ArcGIS+Online)
 - [Make Nearmap Imagery the Basemap](https://docs.nearmap.com/display/ND/Make+Nearmap+Imagery+the+Basemap)
+
 
 
 ## Accessing Nearmap Imagery in ArcGIS Desktop
