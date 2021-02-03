@@ -9,7 +9,7 @@ If you would like to access Nearmap imagery in QGIS or other platforms, you will
 
 ## Accessing Nearmap Imagery in ArcGIS Pro
 1. You must be signed into ArcGIS Pro with your UC San Diego ArcGIS Online credentials. Same process and credentials used to access [ucsdonline.maps.arcgis.com](https://ucsdonline.maps.arcgis.com)
-1. Add Data
+1. **Add Data**
 
    <img src="../images/Pro_AddData.png"  width = 300>
 
@@ -28,8 +28,8 @@ If you would like to access Nearmap imagery in QGIS or other platforms, you will
 ## Accessing Nearmap Imagery in ArcGIS Online
 1. Sign in to UC San Diego ArcGIS Online (https://ucsdonline.maps.arcgis.com) 
 1. Open a Map
-1. Add Data
-1. Browse Subscription Layers
+1. **Add Data**
+1. Browse **Subscription Layers**
 
    <img src="../images/AGO_addlayers.PNG"  width = 300>
 
@@ -40,3 +40,27 @@ If you would like to access Nearmap imagery in QGIS or other platforms, you will
 ### Working with Nearmap in ArcGIS Online 
 - [Enable Historical Imagery](https://docs.nearmap.com/display/ND/Enable+Historical+Imagery+in+ArcGIS+Online)
 - [Make Nearmap Imagery the Basemap](https://docs.nearmap.com/display/ND/Make+Nearmap+Imagery+the+Basemap)
+
+
+## Accessing Nearmap Imagery in ArcGIS Desktop
+It will be helpful to have other data in your map that will help locata you to your area of interest. When you first bring in Nearmap, it does not display at the global scale. You need to be zoomed to an area of interest for the imagery to display.
+
+1. **Add Data** and then **Add Data from ArcGIS Online**
+
+   <img src="../images/Desktop_Nearmap_add_data_1.png"  width = 500>
+
+1. **Sign In** using **Your ArcGIS Online Organizational URL**. Enter *ucsdonline*.
+
+   <img src="../images/Desktop_Nearmap_SignIn_2.png"  width = 500>
+
+1. Enter *ucsdonline* and sign in with your AD credentials
+
+   <img src="../images/Desktop_Nearmap_UCSDcredentials_3.png"  width = 500>
+   
+ 1. You can search for Nearmap one of two ways. Search "My Groups" or search for "Nearmap" in "Groups".
+ 
+    <img src="../images/Desktop_Nearmap_SearchGroups_4.png"  width = 500>
+    
+ 1. Add NearMap to your map document. 
+ 
+     <img src="../images/Desktop_Nearmap_AddNearmap_5.png"  width = 500>
