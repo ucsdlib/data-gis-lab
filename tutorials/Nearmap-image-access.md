@@ -47,7 +47,7 @@ It will be helpful to have other data in your map that will help locata you to y
 
 1. **Add Data** and then **Add Data from ArcGIS Online**
 
-   <img src="../images/Desktop_Nearmap_add_data_1.png"  width = 500>
+   <img src="../images/Desktop_Nearmap_add_data_1.png"  width = 300>
 
 1. **Sign In** using **Your ArcGIS Online Organizational URL**. Enter *ucsdonline*.
 
@@ -59,7 +59,7 @@ It will be helpful to have other data in your map that will help locata you to y
    
  1. You can search for Nearmap one of two ways. Search "My Groups" or search for "Nearmap" in "Groups".
  
-    <img src="../images/Desktop_Nearmap_SearchGroups_4.png"  width = 500>
+    <img src="../images/Desktop_Nearmap_SearchGroups_4.png"  width = 800>
     
  1. Add NearMap to your map document. 
  
