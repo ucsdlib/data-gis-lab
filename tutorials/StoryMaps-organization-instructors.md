@@ -1,3 +1,4 @@
+#DRAFT in progress
 The information below is to assist those instructors in managing some of the logists when using StoryMaps in class. These are suggestions, not absolute rules. You can modify as you see appropriate to your class setting.
 
 ## Tips to keep in mind
