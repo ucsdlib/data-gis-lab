@@ -1,6 +1,14 @@
 #DRAFT in progress
 The information below is to assist those instructors in managing some of the logists when using StoryMaps in class. These are suggestions, not absolute rules. You can modify as you see appropriate to your class setting.
 
+[Tips to keep in mind](#tips-to-keep-in-mind)
+[Creating StoryMaps](#creating-storymaps)\
+    [Individuals will create their OWN StoryMap](#individuals-will-create-their-own-storymap)\
+    [TEAM StoryMaps](#team-storymaps)\
+[Creating Groups where all members can update or edit content](#creating-groups-where-all-members-can-update-or-edit-content)\
+[Submission of Final StoryMaps](#submission-of-final-storymaps)\
+
+
 ## Tips to keep in mind
 - Individual and team StoryMaps are possible. 
 - All StoryMaps are saved inside ArcGIS Online. For managing StoryMaps content for your class, you will want to work within ArcGIS Online. You can still use storymaps.arcgis.com for creating StoryMaps
@@ -9,18 +17,14 @@ The information below is to assist those instructors in managing some of the log
 - For Individual StoryMaps, you can created a single group for the class. 
 - At any point, you can create multiple groups. This might be appropriate if you want to have a "practice StoryMap submission" and a "Final Project Submission". Just be sure to name the groups accordingly. 
 
-    [Creating StoryMaps](#creating-storymaps)\
-    [Individuals will create their OWN StoryMap](#individuals-will-create-their-own-storymap)\
-    [TEAM StoryMaps](#team-storymaps)\
-    [Creating Groups where all members can update or edit content](#creating-groups-where-all-members-can-update-or-edit-content)\
-    [Submission of Final StoryMaps](#submission-of-final-storymaps)\
-
 
 # Creating StoryMaps
+
 ## Individuals will create their OWN StoryMap
 1. Individuals can get started with creating StoryMaps immediately. 
   - Individuals must have logged into the UCSD ArcGIS Online Organization [ucsdonline.maps.arcgis.com](https://ucsdonline.maps.arcgis.com/) using their UCSD AD credentials. [Follow the steps in Option 1](https://ucsd.libguides.com/gis/arcgisaccount) to setup an account.
   - StoryMaps can be access from the main [UCSD ArcGIS Online Organization](https://ucsdonline.maps.arcgis.com/) using the keypad icon <img src="../images/Numberpad.png" width = 75> or directly from [Storymaps.arcgis.com](http://storymaps.arcgis.com/).
+
 
 ## TEAM StoryMaps
 *This setup will support a team of individuals to create one or more StoryMaps together. You will need to setup an ArcGIS **Group** with a particular setting to enable individuals to edit other's content, in this case a StoryMap. Best practice will be for each team of individuals to have their own ArcGIS Group (e.g. five teams will result in five separate groups)*
