@@ -35,7 +35,7 @@ Regardless of who setups up the group, there is one setting that MUST be enabled
     - **Summary:** A brief summary can expand on the title to provide a bit more information. For example, is the group intended for final projects only or for working on a project?
     - **Tags:**  will help individuals find this group when searching
    
-   <img src=".../images/Groups1_GroupDetails_NameDescTags.PNG">
+   <img src=".../images/Groups1_GroupDetails_NameDescTags.png">
  
  5. Set the Group settings:
     - **Who can view this group:** Unless you need content shared outside of the UCSD ArcGIS Online Organization, setting it to just "People in the organization (University of California San Diego) should be sufficient. If you have sensitive content that you don't want viewable to anyone inside the UCSD Org, you can set it to "only group members". The setting you choose here will limit the option "who can join the group". This setting can be changed after the group is created. 
@@ -47,7 +47,7 @@ Regardless of who setups up the group, there is one setting that MUST be enabled
         - *Only their own items:* members cannot edit others' content shared with the group. You want this setting if students are working on their own StoryMaps.
         - *All items (group membership is limited to the organization):* This enables members to edit others' content. You want this setting if you want multiple individuals to work on the same StoryMap. Best practice for 
 
-   <img src=".../images/Groups1_GroupDetails_NameDescTags.PNG">
+   <img src=".../images/Groups1_GroupDetails_NameDescTags.png">
 
 
 # Submission of Final StoryMaps
