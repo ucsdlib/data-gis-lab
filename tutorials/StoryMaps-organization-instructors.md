@@ -1,5 +1,4 @@
-#DRAFT in progress
-The information below is to assist those instructors in managing some of the logists when using StoryMaps in class. These are suggestions, not absolute rules. You can modify as you see appropriate to your class setting.
+The information below is to assist those instructors in managing some of the logists when using StoryMaps for insturcitonal purposes. These settings can also be applied to research groups or other groups who wish to collaobration. These are suggestions, not absolute rules. You can modify as you see appropriate to your instructional, research, or collaborative need.
 
 [Tips to keep in mind](#tips-to-keep-in-mind)
 [Creating StoryMaps](#creating-storymaps)\
