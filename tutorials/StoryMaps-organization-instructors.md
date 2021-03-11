@@ -9,15 +9,11 @@ The information below is to assist those instructors in managing some of the log
 - For Individual StoryMaps, you can created a single group for the class. 
 - At any point, you can create multiple groups. This might be appropriate if you want to have a "practice StoryMap submission" and a "Final Project Submission". Just be sure to name the groups accordingly. 
 
-[Creating StoryMaps](#creating-storymaps)
-
-  [Individuals will create their OWN StoryMap](#individuals-will-create-their-own-storymap)
-
-  [TEAM StoryMaps](#team-storymaps)
-
-[Creating Groups where all members can update or edit content](#creating-groups-where-all-members-can-update-or-edit-content)
-
-[Submission of Final StoryMaps](#submission-of-final-storymaps)
+    [Creating StoryMaps](#creating-storymaps)\
+    [Individuals will create their OWN StoryMap](#individuals-will-create-their-own-storymap)\
+    [TEAM StoryMaps](#team-storymaps)\
+    [Creating Groups where all members can update or edit content](#creating-groups-where-all-members-can-update-or-edit-content)\
+    [Submission of Final StoryMaps](#submission-of-final-storymaps)\
 
 
 # Creating StoryMaps
