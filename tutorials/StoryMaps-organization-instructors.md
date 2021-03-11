@@ -29,6 +29,8 @@ The information below is to assist those instructors in managing some of the log
 ## TEAM StoryMaps
 *This setup will support a team of individuals to create one or more StoryMaps together. You will need to setup an ArcGIS **Group** with a particular setting to enable individuals to edit other's content, in this case a StoryMap. Best practice will be for each team of individuals to have their own ArcGIS Group (e.g. five teams will result in five separate groups)*
 1. Individuals will need to setup a Group inside ArcGIS Online. This task can be assigned to one member of the group or or an instructor or TA can do this.
+2. Once the Group is setup properly using the steps below, and individuals have joined the gruop (from an invite, joining with approval, or joining freely) individuals can collaborat on a StoryMap shared to the Group. 
+
 
 ### Creating Groups where all members can update or edit content 
 Regardless of who setups up the group, there is one setting that MUST be enabled at the creation of the Group. Most other settings can be modified after the creation, expect this one.
