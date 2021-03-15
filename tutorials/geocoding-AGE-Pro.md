@@ -12,7 +12,7 @@ To use ArcGIS Enterprise, make sure to first download the Cisco AnyConnect Secur
    <img src="../images/ArcGIS-ServerConnection-Geocoding-Pro.png" width = 600>
 
 1. When prompted, fill in the Server URL with the address: https://lib-webgis.ucsd.edu/server
-*You must have an account inside ArcGIS Enterprise to use this server address. Reach out to the GIS Librarian for an ArcGIS Enterprise account from your UCSD email account*
+*You must have an account inside ArcGIS Enterprise to use this server address. [Fill out this form to request an ArcGIS Enterprise account](https://forms.gle/j2X1fAQEqmgNjiAWA) using your @ucsd.edu email account. If you have issues, please reach out to a Librarian affiliated with the [Library's Data & GIS Lab](https://lib.ucsd.edu/data-gis-lab).*
 
    <img src="../images/Add-ArcGIS-Server-Connection_activeserver.png" width = 500>
 
