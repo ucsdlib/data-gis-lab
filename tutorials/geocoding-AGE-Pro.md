@@ -1,6 +1,8 @@
 # Geocoding in ArcGIS Enterprise #
 This document will take you through the steps required to connect to ArcGIS Enterprise (AGE) and conduct a geocoding task. You can geocode data using the AGE web browser, or connect to the AGE server through the ArcGIS Pro software. 
 
+You must have an account inside ArcGIS Enterprise to use this server address. [Fill out this form to request an ArcGIS Enterprise account](https://forms.gle/j2X1fAQEqmgNjiAWA) using your @ucsd.edu email account. If you have issues, please reach out to a Librarian affiliated with the [Library's Data & GIS Lab](https://lib.ucsd.edu/data-gis-lab).
+
 ## Connecting to the UC San Diego Virtual Private Network ##
 To use ArcGIS Enterprise, make sure to first download the Cisco AnyConnect Secure Mobility Client and use UCSD's virtual private network (VPN) service. You can find more information [here](https://blink.ucsd.edu/technology/network/connections/off-campus/VPN/). 
 
