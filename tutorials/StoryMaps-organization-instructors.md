@@ -1,4 +1,4 @@
-The information below is to assist those instructors in managing some of the logists when using StoryMaps for insturcitonal purposes. These settings can also be applied to research groups or other groups who wish to collaobration. These are suggestions, not absolute rules. You can modify as you see appropriate to your instructional, research, or collaborative need.
+The information below is to assist instructors or individuals manage logistics when using StoryMaps for instructional purposes. These settings can also be applied to research groups or other groups who wish to collaboraiton. These are suggestions, not absolute rules. You can modify as you see appropriate to your instructional, research, or collaborative need.
 
 [Tips to keep in mind](#tips-to-keep-in-mind)
 [Creating StoryMaps](#creating-storymaps)\
