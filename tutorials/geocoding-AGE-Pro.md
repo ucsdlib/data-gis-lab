@@ -23,7 +23,7 @@ To use ArcGIS Enterprise, make sure to first download the Cisco AnyConnect Secur
 1. Once the connection has been established, the software will ask you to log into AGE with your credentials. You can log in with **[your AD username]** as the username and your AD password as the password. After this, the setup should complete, and you should now be connected to the AGE server. *You can confirm this by checking **Servers** in the **Catalog Pane** (if you do not see the Catalog Pane, select the first **View** tab on the top ribbon, and select **Catalog Pane** and you should see it appear on the far right of the software window).* 
    
    <img src="../images/ArcGIS-Pro-SignInBox.png" width = 400> 
-   <img src="../images/ArcGIS-Pro-Catalog-Servers.png" width = 300> 
+   <img src="../images/AGE_Pro_Geocoding_CatalogLocators_RedBox.png" width = 300> 
 
 1. Once you locate the server on the Catalog Pane, go through the files and in the **Locators** folder, ensure you see the NorthAmerica, USA, and USA_StreetAddress locators. *If your addresses are only in the U.S., use the USA locator. If you have addresses in Canada or Mexico, select the NorthAmerica locator*
 
