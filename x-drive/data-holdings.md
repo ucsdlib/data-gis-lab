@@ -81,19 +81,7 @@
 </tbody>
 </table><blockquote></blockquote>
       
-      
-      X:\
-├───Addresses
-├───Address_Locators
-│   ├───sm_background
-│   ├───Streetmap_North America_2013
-│   │   ├───background
-│   │   └───data
-│   │       └───streets.rsx
-│   └───streets
-│       ├───streets.idx
-│       └───streets.rsx
-├───Africa_Data
+<p> ├───Africa_Data
 │   ├───Imagery
 │   │   └───Layer_Files
 │   ├───Places
@@ -105,8 +93,8 @@
 │       └───Senegal
 │           ├───Boundaries_Districts_and_Jurisdictions
 │           ├───Geology_Geography_and_Topography
-│           └───Hydrology
-├───Asia_Data
+  │           └───Hydrology</p>
+<p>├───Asia_Data
 │   ├───Imagery
 │   │   └───Layer_Files
 │   └───Z_Individual_Country_Data
