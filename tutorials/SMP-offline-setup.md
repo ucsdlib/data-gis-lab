@@ -1,9 +1,10 @@
 # Licensing Esri StreetMap Premium for offline use
 The following steps are intended for the University of California Esri Consortium. The Administrative Steps are specifically for those who have purchased Esri StreetMap Premium through UCOP as part of the Esri consortium. The user steps for authorization from a connected and disconnected computer could be adjusted and applied to support any campus with access to an Esri StreetMap Premium License.
 
-[Administrative Steps for Esri License Administrators](#Administrative-Steps-for-Esri-License-Administrators)\
-[User Steps for authorization with a CONNECTED computer](#User-Steps-for-authorization-with-a-CONNECTED-computer)\
-[User Steps for authorization with a DISCONNECTED computer](#User-Steps-for-authorization-with-a-DISCONNECTED-computer)
+[Administrative Steps for Esri License Administrators](##Administrative-Steps-for-Esri-License-Administrators)\
+[User Steps for authorization with a CONNECTED computer](##User-Steps-for-authorization-with-a-CONNECTED-computer)\
+[User Steps for authorization with a DISCONNECTED computer](##User-Steps-for-authorization-with-a-DISCONNECTED-computer)\
+[Download Streetmap Premium data from ArcCatalog to local machine](##Download-Streetmap-Premium-data-from-ArcCatalog-to-local-machine)
 
 
 ## Administrative Steps for Esri License Administrators  
@@ -17,7 +18,8 @@ OR if you have access to the UCOP MyEsri space
 4. Search Streetmap Premium in the seach box.
 5. Click **Details** next to StreetMap Premium North America for Pro.
 6. Search for your Campus Name and Copy the Authorizaiton number  
- <div align="center"><img src="../images/SMP-LicenseingSMP-123_SingleUse.png" widtch = 150></div>   
+
+ <div align="center"><img src="../images/SMP-LicenseingSMP-123_SingleUse.png" widtch = 15></div>   
 
 ## User Steps for authorization with a CONNECTED computer
 If you can have the computer you are setting up SMP connected to the internet for the authorization process, follow these steps. If the computer is already in a disconnected state, follow the setup for [User Setup for authorization with a disconnected computer](#User-Setup-for-authorization-with-a-disconnected-computer)
@@ -59,3 +61,14 @@ If you have a computer that is completely disconnected from the internet for set
     1. Select “I have received an authorization file from Esri and am now ready to finish the authorization process”
 12.	Follow the steps
 
+## Download Streetmap Premium data from ArcCatalog to local machine
+There are several ways to install the Streetmap Premium data locally to your machine. The process below allows you to identify the region of interest and download just that data rather than the all the data for North America (*UCOP licnese includes only the [geographic coverage area of North America](https://doc.arcgis.com/en/streetmap-premium/coverage/product-coverage.htm#ESRI_SECTION2_AC035FCDC0024A10BCA7FE0D0B3C1342). Reach out to your own campus if you need other geographic areas.*)
+
+In order to install the data, you must be connected to an environment. Then can disconnect and geocode or transfer to your disconnected computer. 
+
+1. Open and sign into ArcGIS Pro
+2.	From within Pro, open your Catalog box and search for StreetMap Premium California (or whatever geography you need that falls within North America). The SMP data in ArcGIS Online is available as map packages. When you add the package to your Pro project and it downloads the SMP data to your computer. You can search for any geographic region in North America.
+
+ <div align="center"><img src="../images/SMP-Catalog-data-download.png" widtch = 5></div>  
+ 
+4.	With the data now local, you can geocode and do routing using the local data. You must be intentional about choosing the local resources.  For example, for geocoding, they need to make sure and use the USA locator. That is the one that comes with SMP for US data. The ArcGIS World Geocoding Service uses data from ArcGIS Online.
