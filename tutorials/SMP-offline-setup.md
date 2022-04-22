@@ -1,5 +1,5 @@
-# Licensing Esri StreetMap Premium for offline use
-The following steps are intended for the University of California Esri Consortium. The Administrative Steps are specifically for those who have purchased Esri StreetMap Premium through UCOP as part of the Esri consortium. The user steps for authorization from a connected and disconnected computer could be adjusted and applied to support any campus with access to an Esri StreetMap Premium License.
+# Licensing Esri Streetmap Premium for offline use
+The following steps are intended for the University of California Esri Consortium. The Administrative Steps are specifically for those who have purchased Esri Streetmap Premium through UCOP as part of the Esri consortium. The user steps for authorization from a connected and disconnected computer could be adjusted and applied to support any campus with access to an Esri Streetmap Premium License.
 
 [Administrative Steps for Esri License Administrators](#Administrative-Steps-for-Esri-License-Administrators)\
 [User Setup for authorization with a CONNECTED computer](#User-Setup-for-authorization-with-a-CONNECTED-computer)\
@@ -8,16 +8,16 @@ The following steps are intended for the University of California Esri Consortiu
 
 
 ## Administrative Steps for Esri License Administrators  
-1. Reach out to Mono Simeone at UCSF for an autorization number that can be shared with up to XX users to authorize StreetMap Premium on a desktop. Mono has already licensed 50 authorizations numbers for each campus (that have purchased StreetMap Premium).
+1. Reach out to Mono Simeone at UCSF for an authorization number that can be shared with up to 50 users to authorize Streetmap Premium on a desktop. Mono has already licensed 50 authorizations numbers for each campus that has purchased StreetMap Premium under the UCOP licnese.
 
 OR if you have access to the UCOP MyEsri space
 
 1. Set active Organization to:  University of California, Office of the President (UCOP)
 2. From top menu, click **Licensing**
 3. From left menu, click **Authorizations** under License Information
-4. Search Streetmap Premium in the seach box.
-5. Click **Details** next to StreetMap Premium North America for Pro.
-6. Search for your Campus Name and Copy the Authorizaiton number  
+4. Search Streetmap Premium in the search box.
+5. Click **Details** next to Streetmap Premium North America for Pro.
+6. Search for your Campus Name and Copy the Authorization number  
 
  <div align="center"><img src="../images/SMP-LicenseingSMP-123_SingleUse.png" widtch = 15></div>   
 
@@ -62,7 +62,7 @@ If you have a computer that is completely disconnected from the internet for set
 12.	Follow the steps
 
 ## Download Streetmap Premium data from ArcCatalog to local machine
-There are several ways to install the Streetmap Premium data locally to your machine. The process below allows you to identify the region of interest and download just that data rather than the all the data for North America (*UCOP licnese includes only the [geographic coverage area of North America](https://doc.arcgis.com/en/streetmap-premium/coverage/product-coverage.htm#ESRI_SECTION2_AC035FCDC0024A10BCA7FE0D0B3C1342). Reach out to your own campus if you need other geographic areas.*)
+There are several ways to install the Streetmap Premium data locally to your machine. The process below allows you to identify the region of interest and download just that data rather than the all the data for North America (*UCOP license includes only the [geographic coverage area of North America](https://doc.arcgis.com/en/streetmap-premium/coverage/product-coverage.htm#ESRI_SECTION2_AC035FCDC0024A10BCA7FE0D0B3C1342). Reach out to your own campus if you need other geographic areas.*)
 
 In order to install the data, you must be connected to an environment. Then can disconnect and geocode or transfer to your disconnected computer. 
 
