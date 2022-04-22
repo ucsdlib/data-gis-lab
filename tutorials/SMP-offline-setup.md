@@ -1,10 +1,10 @@
 # Licensing Esri StreetMap Premium for offline use
 The following steps are intended for the University of California Esri Consortium. The Administrative Steps are specifically for those who have purchased Esri StreetMap Premium through UCOP as part of the Esri consortium. The user steps for authorization from a connected and disconnected computer could be adjusted and applied to support any campus with access to an Esri StreetMap Premium License.
 
-[Administrative Steps for Esri License Administrators](##Administrative-Steps-for-Esri-License-Administrators)\
-[User Steps for authorization with a CONNECTED computer](##User-Steps-for-authorization-with-a-CONNECTED-computer)\
-[User Steps for authorization with a DISCONNECTED computer](##User-Steps-for-authorization-with-a-DISCONNECTED-computer)\
-[Download Streetmap Premium data from ArcCatalog to local machine](##Download-Streetmap-Premium-data-from-ArcCatalog-to-local-machine)
+[Administrative Steps for Esri License Administrators](#Administrative-Steps-for-Esri-License-Administrators)\
+[User Steps for authorization with a CONNECTED computer](#User-Steps-for-authorization-with-a-CONNECTED-computer)\
+[User Steps for authorization with a DISCONNECTED computer](#User-Steps-for-authorization-with-a-DISCONNECTED-computer)\
+[Download Streetmap Premium data from ArcCatalog to local machine](#Download-Streetmap-Premium-data-from-ArcCatalog-to-local-machine)
 
 
 ## Administrative Steps for Esri License Administrators  
