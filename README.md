@@ -1,13 +1,4 @@
 # data-gis-lab
-Data &amp; GIS Lab 
+Welcome to UC San Diego's Data & GIS Lab GitHub. You'll find tutorials and information on our geospatial and data holdings.
 
-Insturctions for pulling the list of data from the X drive.
-
-Header:  Toggle between Table of Contents and listing of all files from the X:/ Geospatial Data
-
-CMD promt:   tree x:\
-  
-Copy and paste output
-
-Creating Table of Contents
-  CMD Promt:  dir x:\
+For more information our our Lab, visit: <a href="https://lib.ucsd.edu/data-gis-lab">lib.ucsd.edu/data-gis-lab<a> 
