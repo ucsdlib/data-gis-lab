@@ -2,8 +2,8 @@
 The following steps are intended for the University of California Esri Consortium. The Administrative Steps are specifically for those who have purchased Esri StreetMap Premium through UCOP as part of the Esri consortium. The user steps for authorization from a connected and disconnected computer could be adjusted and applied to support any campus with access to an Esri StreetMap Premium License.
 
 [Administrative Steps for Esri License Administrators](#Administrative-Steps-for-Esri-License-Administrators)\
-[User Steps for authorization with a CONNECTED computer](#User-Steps-for-authorization-with-a-CONNECTED-computer)\
-[User Steps for authorization with a DISCONNECTED computer](#User-Steps-for-authorization-with-a-DISCONNECTED-computer)\
+[User Setup for authorization with a CONNECTED computer](#User-Setup-for-authorization-with-a-CONNECTED-computer)\
+[User Setup for authorization with a DISCONNECTED computer](#User-Setup-for-authorization-with-a-DISCONNECTED-computer)\
 [Download Streetmap Premium data from ArcCatalog to local machine](#Download-Streetmap-Premium-data-from-ArcCatalog-to-local-machine)
 
 
@@ -21,7 +21,7 @@ OR if you have access to the UCOP MyEsri space
 
  <div align="center"><img src="../images/SMP-LicenseingSMP-123_SingleUse.png" widtch = 15></div>   
 
-## User Steps for authorization with a CONNECTED computer
+## User Setup for authorization with a CONNECTED computer
 If you can have the computer you are setting up SMP connected to the internet for the authorization process, follow these steps. If the computer is already in a disconnected state, follow the setup for [User Setup for authorization with a disconnected computer](#User-Setup-for-authorization-with-a-disconnected-computer)
 
 1.	Open ArcGIS Pro
