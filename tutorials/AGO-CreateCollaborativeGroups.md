@@ -1,6 +1,7 @@
 # Creating Groups where all members can update or edit content 
 Regardless of who setups up the group, there is one setting that MUST be enabled at the creation of the Group. Most other settings can be modified after the creation, expect this one.
-  The Setting:  "What items in the group can its members update?"
+  The Setting:  "Shared Update"
+Read more from [Esri on creating groups](https://doc.arcgis.com/en/arcgis-online/share-maps/create-groups.htm).
   
 1. From the ArcGIS menu bar, select **Groups**
 2. Click **Create Group**
