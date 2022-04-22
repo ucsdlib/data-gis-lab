@@ -1,4 +1,4 @@
-# Licnesing Esri StreetMap Premium for offline use
+# Licensing Esri StreetMap Premium for offline use
 The following steps are intended for the University of California Esri Consortium. The Administrative Steps are specifically for those who have purchased Esri StreetMap Premium through UCOP as part of the Esri consortium. The user steps for authorization from a connected and disconnected computer could be adjusted and applied to support any campus with access to an Esri StreetMap Premium License.
 
 [Administrative Steps for Esri License Administrators](#Administrative-Steps-for-Esri-License-Administrators)\
@@ -7,6 +7,17 @@ The following steps are intended for the University of California Esri Consortiu
 
 
 ## Administrative Steps for Esri License Administrators  
+1. Reach out to Mono Simeone at UCSF for an autorization number that can be shared with up to XX users to authorize StreetMap Premium on a desktop. Mono has already licensed 50 authorizations numbers for each campus (that have purchased StreetMap Premium).
+
+OR if you have access to the UCOP MyEsri space
+
+1. Set active Organization to:  University of California, Office of the President (UCOP)
+2. From top menu, click **Licensing**
+3. From left menu, click **Authorizations** under License Information
+4. Search Streetmap Premium in the seach box.
+5. Click **Details** next to StreetMap Premium North America for Pro.
+6. Search for your Campus Name and Copy the Authorizaiton number  
+ <div align="center"><img src="../images/SMP-LicenseingSMP-123_SingleUse.png" widtch = 150></div>   
 
 ## User Steps for authorization with a CONNECTED computer
 If you can have the computer you are setting up SMP connected to the internet for the authorization process, follow these steps. If the computer is already in a disconnected state, follow the setup for [User Setup for authorization with a disconnected computer](#User-Setup-for-authorization-with-a-disconnected-computer)
@@ -48,4 +59,3 @@ If you have a computer that is completely disconnected from the internet for set
     1. Select “I have received an authorization file from Esri and am now ready to finish the authorization process”
 12.	Follow the steps
 
-If you were able to connect the offline computer to the internet for the authorization process, you could proceed at step 5 with the remaining steps that are much easier. Once the authorization was finished, you could disconnect the computer and proceed with Geocoding.
