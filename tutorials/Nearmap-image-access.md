@@ -15,7 +15,7 @@ If you would like to access Nearmap imagery in QGIS or other platforms, you will
 
    <img src="../images/Pro_AddData.png"  width = 300>
 
-1. Under Portal, select **My Organization**. Search for *nearmap* in **Groups**.
+1. Under Portal, select **My Groups**.
 
    <img src="../images/Pro_AddData_MyOrg_Groups_Nearmap.png"  width = 400>
 
