@@ -1,5 +1,5 @@
-# Creating Groups where all members can update or edit content 
-Regardless of who setups up the group, there is one setting that MUST be enabled at the creation of the Group. Most other settings can be modified after the creation, expect this one.
+# Create "Shared Update Groups"
+Shared Update Groups enable all members to edit content within this group. Regardless of who setups up the group, there is one setting that MUST be enabled at the creation of the Group. Most other settings can be modified after the creation, expect this one.
   The Setting:  "Shared Update"
 Read more from [Esri on creating groups](https://doc.arcgis.com/en/arcgis-online/share-maps/create-groups.htm).
   
