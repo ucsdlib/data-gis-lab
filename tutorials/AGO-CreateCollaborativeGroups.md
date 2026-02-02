@@ -31,7 +31,7 @@ Read more from [Esri on creating groups](https://doc.arcgis.com/en/arcgis-online
      
 ## Group designations
 Modify these settings based on your needs.
-   - **Shared update** This setting supports what items in the group can its members update. This is the setting that **CANNOT** be changed after a group is created. This is the setting you will need to change if you want individuals to edit another members data, maps, apps or colloabrate on StoryMaps. The ability to enable this depends on your group membership settings above.
+   - **Shared update** This setting supports what items in the group can its members update. This is the setting that **CANNOT** be changed after a group is created. This is the setting you will need to change if you want individuals to edit another members data, maps, apps or collaborate on StoryMaps. The ability to enable this depends on your group membership settings above.
    - **Administrative group** members cannot leave this group on their own.
    - **Open Data** if you want content to be accessible in Open Data Sites. Group visibility must be set to Everyone for this option to be available.
 
